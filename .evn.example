@@ -1,0 +1,8 @@
+DISCORD_TOKEN = YOUR BOT TOKEN
+CLIENT_ID = YOUR BOT ID
+GUILD_ID = YOUR SERVER ID
+OPENAI_API_KEY = CREATE YOUR OWN API KEY AT https://openai.com/api/
+PORT = 3000 (default)
+ADMIN_KEY
+
+(If you are using Replit, Make sure to add these onto your secrets or else, They won't work at all.)
